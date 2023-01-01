@@ -1,0 +1,7 @@
+git config --global user.name xl;
+git config --global user.email xi@qq.com
+git inti
+git status
+git add . or filename
+git commit -m "the message of this submission" filename
+git reflog for the pointer of the file
