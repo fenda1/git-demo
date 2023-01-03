@@ -8,3 +8,4 @@ git reflog for the pointer of the file
 git log the fully log
 git restore --staged filename
 git rm --cached filename
+git reset --hard hasdcode
